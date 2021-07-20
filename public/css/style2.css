@@ -1,0 +1,28 @@
+.img-fluid {
+  width: 540px;
+  height: 600px; }
+
+.menu-entry .img {
+    display: block;
+    height: 260px; }
+    
+.ftco-cart button, .ftco-cart .form-control {
+  height: 54px !important;
+  text-align: center;
+  bordeR: 1px solid rgba(255, 255, 255, 0.1) !important;
+  padding: 0; }
+
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  background: #151111;
+  font-size: 15px;
+  line-height: 1.8;
+  font-weight: 300;
+color: #ffffff;
+  background: url(../images/bg_4.jpg) no-repeat fixed;
+  background-size: cover; }
+  body.menu-show {
+    overflow: hidden;
+    position: fixed;
+    height: 100%;
+    width: 100%; }

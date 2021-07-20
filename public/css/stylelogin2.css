@@ -1,0 +1,46 @@
+.demo-1 .large-header {
+	background-image: url('../images/bg_1.jpg');
+	background-position: center bottom;
+}
+
+.form-w3-agile {
+    padding: 100px 40px;
+}
+
+h1,h5,h2 {
+    font-family: 'sans-serif', cursive;
+}
+
+input[type="submit"] {
+	font-family: 'sans-serif', cursive;
+}
+
+.form-sub-w3 input[type="text"],input[type="password"] {
+    outline: none;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 15px 40px 15px 10px;
+    letter-spacing: 2px;
+    width: 87%;
+    border: none;
+    border-bottom: 2px solid #00BCD4;
+    -webkit-appearance: none;
+    margin-bottom: 10px;
+    background: transparent;
+	font-family: 'Sirin Stencil', cursive;
+}
+
+.form-sub-w3 input[type="password"] {
+    outline: none;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 15px 40px 15px 10px;
+    width: 87%;
+    border: none;
+    border-bottom: 2px solid #00BCD4;
+    -webkit-appearance: none;
+    margin-bottom: 10px;
+    background: transparent;
+    font-family: 'Sirin Stencil', cursive;
+}
+

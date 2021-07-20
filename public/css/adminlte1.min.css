@@ -1,0 +1,41 @@
+.phantrang{
+    margin-bottom: -.3rem;
+    margin-top: -.3rem;
+    float: right!important;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: .25rem;
+    border-top-left-radius: .2rem;
+    border-bottom-left-radius: .2rem;
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+}
+
+#it:first-child .link {
+    border-top-left-radius: .2rem;
+    border-bottom-left-radius: .2rem;
+    margin-left: 0;
+}
+
+.link{
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #007bff;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul li.active span{
+    background: #c49b63;
+    color: #fff;
+    border: 1px solid transparent;
+}
